@@ -1,5 +1,6 @@
 import React from "react";
-import logo from "../images/cartoon-me";
+import logo from "../images/cartoon-me.png";
+import "../styles/nav.css";
 
 
 
@@ -7,7 +8,7 @@ const Nav =() => {
     return (
 
         <div id="logo">
-            <img src={logo}></img>
+            <img src={logo} width="100" height="90"></img>
         </div>
        
     )
