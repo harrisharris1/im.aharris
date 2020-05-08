@@ -1,3 +1,10 @@
 #logo{
     width: 10px;
 }
+
+.icons{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 95px 25px;
+}

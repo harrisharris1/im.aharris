@@ -3,8 +3,11 @@
     margin:0 auto;
 
 }
-h1, h2,p{
+ p{
     font-family: 'Coming Soon', cursive;
     
+}
+h1{
+    font-family: 'Asap', sans-serif;
 }
 
