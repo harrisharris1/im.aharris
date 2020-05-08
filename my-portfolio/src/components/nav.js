@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../images/cartoon-me.png";
+import logo from "../images/cartoon-me2.png";
 import "../styles/nav.css";
 
 
