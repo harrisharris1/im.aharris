@@ -1,10 +1,11 @@
 h1, p{
-    /* background: linear-gradient(to right, #4CC1AE 0%, #773BCB 74%, #713675 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;  */
+    
         color: whitesmoke;
         text-align: center;
 }
 h1{
     font-size: 120px;
+    background: linear-gradient(to right, #4CC1AE 0%, #773BCB 74%, #713675 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; 
 }
